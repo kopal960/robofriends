@@ -10,7 +10,6 @@ class Card extends React.Component{
                         <h2>
                             {this.props.name}
                         </h2>
-                        throw 
                         <p>{this.props.email}</p>
                     </div>
                 </div>
