@@ -1,14 +1,21 @@
-
-
+h4 {
+  color: cyan;
+}
 
 @font-face {
   font-family: 'SEGA LOGO FONT';
   font-style: normal;
   font-weight: normal;
   src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
-  }
+  } 
 
-h1 {
+
+.robofont{
     font-family: "SEGA LOGO FONT";
     color:#bdbdbd
 }
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
